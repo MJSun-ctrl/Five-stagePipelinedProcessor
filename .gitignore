@@ -1,0 +1,97 @@
+###################################
+# Vivado generated files
+###################################
+
+# Vivado cache
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.gen/
+
+# Vivado project generated files
+*.jou
+*.log
+*.str
+
+# Vivado simulation output
+*.wdb
+*.wcfg
+
+# Vivado synthesis / implementation output
+*.dcp
+*.bit
+*.bin
+*.mcs
+*.prm
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+
+###################################
+# FPGA build output
+###################################
+
+# Generated reports
+*.rpt
+
+# Checkpoint files
+*.ckpt
+
+# Timing reports
+*.twx
+*.xml
+
+
+###################################
+# ModelSim / Questa simulation
+###################################
+
+transcript
+vsim.wlf
+work/
+*.wlf
+
+
+###################################
+# IDE files
+###################################
+
+# VS Code
+.vscode/
+
+# JetBrains IDE
+.idea/
+*.iml
+
+
+###################################
+# OS generated files
+###################################
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+###################################
+# Logs
+###################################
+
+*.log
+
+
+###################################
+# Temporary files
+###################################
+
+*.swp
+*.swo
+*~
